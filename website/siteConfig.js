@@ -13,7 +13,7 @@ const users = [];
 
 const siteConfig = {
     title: 'Nakarin Philangam', // Title for your website.
-    tagline: 'Never Give up, Dreamer, Passinated, Technology is the future',
+    tagline: 'Never Give up, Dreamer, Passionated, Technology is Future',
     profilePhoto: 'img/tech1234.jpeg',
     url: 'https://NakarinPH.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
